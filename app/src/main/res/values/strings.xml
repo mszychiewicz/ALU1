@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ALU1</string>
+    <string name="user_name">Julianna Carter</string>
+    <string name="user_description">Photographer</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molesitie. Fusce quis mauris a enim sollicitudin</string>
+    <string name="posts_title">Posts</string>
+    <string name="posts_number">1.5 K</string>
+    <string name="followers_title">Followers</string>
+    <string name="followers_number">17.8 K</string>
+    <string name="following_title">Following</string>
+    <string name="following_number">1.3 K</string>
+    <string name="website_title">Website</string>
+    <string name="website_text">visual-photo.me</string>
+    <string name="email_title">Email</string>
+    <string name="email_text">juliana.c@mail.com</string>
+    <string name="phone_title">Phone</string>
+    <string name="phone_text">(022)77723287</string>
+    <string name="location_title">Location</string>
+    <string name="location_text">United State</string>
+    <string name="message">Message</string>
+    <string name="call">Call</string>
+</resources>
